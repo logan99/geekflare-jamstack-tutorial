@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://animated-beijinho-2baa8b.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My new Jamstack site'
 theme = 'hyde'
